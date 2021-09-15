@@ -1,0 +1,8 @@
+prefix=/home/ahmed/Desktop/ROS_Tutorial/Assignment1/install
+
+Name: exercise_three
+Description: Description of exercise_three
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

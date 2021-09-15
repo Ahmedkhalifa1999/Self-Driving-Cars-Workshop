@@ -1,0 +1,8 @@
+prefix=/home/ahmed/Desktop/ROS_Tutorial/Assignment1/devel
+
+Name: exercise_one
+Description: Description of exercise_one
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

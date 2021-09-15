@@ -1,0 +1,6 @@
+<launch>
+<group>
+ <node pkg = "exercise_three" name = "user_info_driver" type = "user_info_driver.py" output = "screen"/>
+ <node pkg = "exercise_three" name = "data_processing" type = "data_processing.py"/>
+</group>
+</launch>
