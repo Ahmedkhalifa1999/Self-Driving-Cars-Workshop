@@ -1,0 +1,2 @@
+Bicycle_Model
+-DCATKIN_DEVEL_PREFIX=/mnt/c/Users/ahmed/Desktop/Self-Driving Cars Workshop/Projects/Mini-Project 2/devel -DCMAKE_INSTALL_PREFIX=/mnt/c/Users/ahmed/Desktop/Self-Driving Cars Workshop/Projects/Mini-Project 2/install -G Unix Makefiles
